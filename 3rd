@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg">
+    <title>Στοιχεια Επικοινωνίας</title>
+    <link rel="stylesheet" type="text/css" href='css styles.css'>
+</head>
+<body>
+<div class="navbar">    
+
+    <a href="html preworkout.html" target="_blank">Αρχική Σελίδα</a> 
+    <a  href="history skateboard.html" target="_blank">  Ιστορία του Skateboarding</a>
+    <a href="contact.html" target="_blank">Στοιχεία Επικοινωνίας</a>
+    <a href="" target="_blank">Βοήθεια</a>
+    <a href="" target="_blank">Εποικηνωνία</a>
+</div>
+    <h1>Περιγραφή εργασίας</h1>
+    <ul type ="circle">
+        <li>
+           <h2> Η παρούσα εργασία πραγματοποιήθηκε στο πλαίσιο του μαθήματος. Στόχος ήταν να αναδειχθεί η ιστορία, η εξέλιξη και η εισαγωγή του skateboard στους Ολυμπιακούς Αγώνες, 
+            καθώς και η επιρροή του στη νεανική κουλτούρα. </h2>
+        </li>
+        <li>
+           <h2> Η επιλογή του θέματος έγινε λόγω της καινοτομίας του skateboard στον αθλητισμό, της σύνδεσής του με τη μοντέρνα κουλτούρα 
+            και της συμβολής του στην προώθηση της δημιουργικότητας και της ελευθερίας έκφρασης. </h2>
+        </li>
+        <li>
+             <h2>Για την κατασκευή της ιστοσελίδας χρησιμοποιήθηκαν εργαλεία όπως HTML, CSS και JavaScript, ενώ ιδιαίτερη έμφαση δόθηκε στον σχεδιασμό φιλικού προς τον χρήστη περιβάλλοντος. 
+            Η δομή της ιστοσελίδας περιλάμβανε ενότητες για την ιστορία του skateboard, τους βασικούς κανόνες, 
+            τα αγωνίσματα στους Ολυμπιακούς Αγώνες και τη σημασία του για την παγκόσμια αθλητική κοινότητα. </h2>
+        </li>
+
+
+
+
+    </ul>
+    <h1> Άντληση πληροφοριών</h1>
+     <h2>Οι πληροφορίες αντλήθηκαν απο τις παρακάτω Ιστοσελίδες</h2>
+     <ul type = "square">
+
+     
+     <li> <h3>Από την 
+     <a href="https://en.wikipedia.org/wiki/Skateboarding" target="_blank" rel="noopener noreferrer" title="Wikipedia">
+        Wikipedia
+     </a></h3>
+    </li>
+    <li><h3>Από το
+     <a href="https://www.skatedeluxe.com/blog/en/wiki/skateboarding/history-of-skateboarding/" target="_blank" rel="noopener noreferrer" title="Skate-deluxe">
+        Skate Deluxe
+     </a></h3>
+    </li>
+
+    </ul>
+    <table >
+        
+        <caption> <h2> Στοιχεία Επικοινωνίας </h2> </caption>
+        
+        
+        <tr  >
+            <th>Ονοματεπώνυμο </th>
+            <th>Αριθμός Μητρώου </th>
+            <th>email</th>
+        </tr>
+               
+        <tr >
+            <td>Κωνσταντίνος Πανάγος</td>
+            <td>3240158</td>
+            <td>konstantinospanagos88@gmail.com</td>
+        </tr>
+        <tr>
+            <td>Αντώνης Ζικάκης </td>
+            <td>3240058</td>
+            <td>tonizik@icloud.com</td>
+        </tr>
+        
+
+       
+    </table>
+    <div>
+        <h2>Επικοινωνία με την Ομάδα</h2>
+    
+        <button class="cbutton" onclick="window.location.href='mailto:konstantinospanagos88@gmail.com'">Επικοινωνία με τον Κωνσταντίνο Πανάγο </button>
+        <br>
+        <button class= "cbutton"onclick="window.location.href='mailto:maria@example.com'">Επικοινωνία με τον Αντώνη Ζικάκη</button>
+    
+    </div>
+
+    <footer>
+    <div class = 'footer-content'>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Κωνσταντίνος Πανάγος </u> 1ο Έτος</p> <br>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Αντώνης Ζικάκης </u>1ο Έτος</p>
+    </div>
+</footer>
+    
+    
+</body>
+</html>
