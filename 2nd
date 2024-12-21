@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg">
+<title>Ιστορία του skateboard</title>
+<link rel="stylesheet" type="text/css" href='css styles.css'>
+<script src="javascript.js"></script>
+</head>
+<body>
+<div class="navbar">    
+    
+    <a href="html preworkout.html" target="_blank">Αρχική Σελίδα</a> 
+    <a  href="history skateboard.html" target="_blank">  Ιστορία του Skateboarding</a>
+    <a href="contact.html" target="_blank">Στοιχεία Επικοινωνίας</a>
+    <a href="" target="_blank">Βοήθεια</a>
+    <a href="" target="_blank">Εποικηνωνία</a>
+    </div>
+    <div  id="para" class="summary">
+        Η ιστορία του skateboard είναι άρρηκτα συνδεδεμένη με την κουλτούρα των δρόμων,
+        τον αθλητισμό και τη δημιουργική έκφραση. Από την ταπεινή του αρχή ως "παιχνίδι"
+         για παιδιά μέχρι τη σύγχρονη θέση του ως παγκόσμιο άθλημα, η εξέλιξη του 
+         skateboard είναι συναρπαστική.
+         Ας δούμε την ιστορία του μέσα από τις σημαντικότερες στιγμές:
+         <button class = 'button'onclick="color()" > Change color</button>
+    </div>
+    
+    
+    <div class="content"> 
+        <img  src="screen2.png" >
+    <ul type="square">
+        <li> 
+            <span class="summary2"> 1950s: Η Γέννηση του Skateboard  </span>
+           <h2> Το skateboard γεννήθηκε στη δεκαετία του 1950 στις Ηνωμένες Πολιτείες, ως εναλλακτική για τους σέρφερ όταν δεν υπήρχαν κύματα. Οι πρώτοι "skateboarders" ήταν κυρίως σέρφερ που αναζητούσαν έναν τρόπο να φέρουν τη δράση του surf στην ξηρά.
+            
+            <ul type = 'circle'> 
+            <li>  Τα πρώτα skateboard ήταν αυτοσχέδια: σανίδες με ρόδες από πατίνια προσαρμοσμένες από τους ίδιους τους σέρφερ.</li>
+            <li>Ονομάστηκαν αρχικά "sidewalk surfboards" (σανίδες πεζοδρομίου).</li></ul></li> </h2>
+
+        <li> 
+            <span class="summary2"> 1980s: Το Skateboarding ως Υποκουλτούρα            </span>
+            <h2> Τη δεκαετία του 1980, το skateboarding εξελίχθηκε από άθλημα σε υποκουλτούρα:
+            <ul type = 'circle'> 
+            <li>  Οι σανίδες έγιναν φαρδύτερες, με πιο εξελιγμένα trucks (άξονες) που επέτρεπαν καλύτερο έλεγχο.</li>
+            <li>Εμβληματικές φιγούρες, όπως ο Tony Hawk, έγιναν διάσημοι για τα ακροβατικά τους και για τη συμμετοχή σε μεγάλους διαγωνισμούς.</li></ul></li> </h2>
+
+        <li> 
+            <span class="summary2"> 1990s: Το Street Skateboarding Κυριαρχεί            </span>
+            <h2> Στη δεκαετία του 1990, το skateboarding έγινε λιγότερο εμπορικό και πιο "αυθεντικό".
+            <ul type = 'circle'> 
+            <li>  Το street skating έγινε το κυρίαρχο στυλ, με τους skateboarders να χρησιμοποιούν αστικά τοπία (κάγκελα, σκάλες, τοίχους).</li>
+            <li>Εμφανίστηκαν περιοδικά όπως το Thrasher Magazine και το Transworld Skateboarding, που προώθησαν την underground κουλτούρα του αθλήματος.</li>
+            <li>Η μουσική σκηνή punk και hip-hop επηρέασε βαθιά την κουλτούρα του skateboarding.</li></ul></li> </h2>
+        <li>
+            <span class="summary2"> 2010s-Σήμερα: Skateboarding Ολυμπιακό Άθλημα            </span>
+            <h2> Στις πρόσφατες δεκαετίες:
+            <ul type = 'circle'> 
+            <li>  Το skateboarding έγινε Ολυμπιακό άθλημα στους Θερινούς Ολυμπιακούς Αγώνες του Τόκιο το 2021.</li>
+            <li>Εξελίχθηκε σε παγκόσμια κουλτούρα, με κοινότητες skateboarders να αναπτύσσονται σε όλο τον κόσμο.</li>
+             <li>Νέοι αθλητές, όπως η Sky Brown, έφεραν νέα δυναμική στο άθλημα.          </li></ul></li> </h2> 
+
+        <li>
+           
+            <span class="summary2">  Η Σημασία του Skateboarding Σήμερα </span>
+            <h2>Το skateboard δεν είναι απλώς ένα άθλημα αλλά μια μορφή τέχνης, έκφρασης και στάσης ζωής. 
+                Συνδυάζει το αθλητικό ταλέντο, τη δημιουργικότητα και την ελευθερία, και συνεχίζει 
+                να εξελίσσεται ως παγκόσμια κουλτούρα.</h2>
+
+        </li>
+
+
+            
+ 
+
+
+    </ul>
+</div>
+
+
+    
+
+
+<footer>
+    <div class = 'footer-content'>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Κωνσταντίνος Πανάγος </u> 1ο Έτος</p> <br>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Αντώνης Ζικάκης </u>1ο Έτος</p>
+    </div>
+</footer>
+
+</body>
+</html>
