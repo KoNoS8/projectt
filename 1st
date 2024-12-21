@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg">
+<title>Skateboard</title>
+<link rel="stylesheet" type="text/css" href='css styles.css'>
+<script src="javascript.js"></script>
+</head>
+<body>
+
+  <div class="navbar">    
+        
+    <a href="html preworkout.html" target="_blank">Αρχική Σελίδα</a> 
+    <a  href="history skateboard.html" target="_blank">  Ιστορία του Skateboarding</a>
+    <a href="contact.html" target="_blank">Στοιχεία Επικοινωνίας</a>
+    <a href="" target="_blank">Βοήθεια</a>
+    <a href="" target="_blank">Εποικηνωνία</a>
+   </div>
+  <div>
+    <h1 id ="test"></h1>
+  </div>
+   <div class="summary">
+    Η ιστοσελίδα θα είναι αφιερωμένη στο skate ως ολυμπιακό άθλημα, προσφέροντας πληροφορίες, ειδήσεις και υλικό για τους λάτρεις του αθλήματος. 
+    Στόχος της είναι<u><b> να παρουσιάσει την ιστορία και την εξέλιξη του skate, από την προέλευσή του ως μια underground 
+    δραστηριότητα, μέχρι την καθιέρωσή του ως ένα από τα πιο δημοφιλή και δημιουργικά αθλήματα στον κόσμο. </u> </b> 
+    Θα περιλαμβάνει ενότητες για τους κανονισμούς και τις μορφές των ολυμπιακών αγώνων στο σκάτε, βιογραφίες κορυφαίων αθλητών, οδηγούς για τεχνικές και
+     εξοπλισμό, καθώς και ένα ημερολόγιο με διαγωνισμούς και εκδηλώσεις. Παράλληλα, η πλατφόρμα θα προωθεί τη συμμετοχή της κοινότητας,
+      δίνοντας χώρο σε άρθρα, βίντεο και εμπειρίες των ίδιων των αθλητών και φίλων του σπορ. Η ιστοσελίδα θα λειτουργεί ως κέντρο πληροφόρησης
+       και έμπνευσης για όλους όσους ενδιαφέρονται για το skate, αναδεικνύοντας τη μοναδικότητα και την ομορφιά του αθλήματος.
+
+
+</div>
+<div class="image-container">
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\db215e16-279c-4b07-837d-debff012acf7-SKATE_01.webp" >
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV0bWppZ2dmY28zanhvZDdmM29xMzJudWVrZDlkZ3lkanhubHdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ion58BazHLlYruG0U/giphy.gif" >
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\olympic-skateboarding-jagger-eaton-inc-2164246290_543171_w2urh6.webp" >
+  </div>
+
+  <div class ='summary'>
+    Ακολουούν δύο βίντεο από τους Ολυμπιακούς Αγώνες του 2024, το οποίο παρουσιάζει εντυπωσιακές στιγμές από τους αγώνες skateboarding. 
+    Μέσα από αυτό το βίντεο, μπορείτε να δείτε τους κορυφαίους αθλητές του αθλήματος να εκτελούν μοναδικά κόλπα και να αποδεικνύουν γιατί το 
+    skateboarding είναι ένα από τα πιο δυναμικά και δημιουργικά αθλήματα στους Ολυμπιακούς Αγώνες. Απολαύστε την <u><b>ενέργεια, 
+    την τεχνική και το πάθος </u> </b>που χαρακτηρίζουν αυτό το μοναδικό άθλημα!
+
+
+  </div>
+  <div >
+    <iframe width="935" height="680" src="https://www.youtube.com/embed/vzTO1m2s2yk" title="MASSIVE Skateboarding Final WINNING run 🥇 | #Paris2024 Highlights | #Olympics" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="935" height="680" src="https://www.youtube.com/embed/qQwseBIRXYo" title="14-YEAR-OLD STAR 💫 | Street Skateboarding Gold Medalist Yoshizawa Coco | #Paris2024" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <footer>
+    <div class = 'footer-content'>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Κωνσταντίνος Πανάγος </u> 1ο Έτος</p> <br>
+    <img src="C:\Users\konos\Desktop\extracted files\html java askhsh\3_AUEB-emblem-HR.jpg"  class="footer-photo">
+    <p> <u>Αντώνης Ζικάκης </u>1ο Έτος</p>
+    </div>
+</footer>
+
+</body>
+
+
+
+
+</html>
